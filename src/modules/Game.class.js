@@ -117,7 +117,7 @@ export class Game {
     }
 
     if (!this.hasValidMoves()) {
-      this.status = 'game over';
+      this.status = 'Game over';
     }
   }
 
