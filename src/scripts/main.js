@@ -1,6 +1,6 @@
 'use strict';
 
-import { Game } from '../modules/Game.class';
+import { Game } from '../modules/Game.New.js';
 
 const game = new Game();
 const boardElement = document.querySelector('.game-board');
